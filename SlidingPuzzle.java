@@ -346,9 +346,9 @@ public class SlidingPuzzle extends javax.swing.JFrame {
             callClass.CheckButton(jButton1.getText(), jButton5.getText());
                 jButton1.setText(callClass.number[0]); jButton5.setText(callClass.number[1]);
             if (callClass.CheckWin(jButton1.getText(), jButton2.getText(), jButton3.getText(), jButton4.getText(), jButton5.getText(), jButton6.getText(), jButton7.getText(), jButton8.getText(), jButton9.getText(), jButton10.getText(), jButton11.getText(), jButton12.getText(), jButton13.getText(), jButton14.getText(), jButton15.getText(), jButton16.getText()) == 1) {
+                time.stop();
                 JOptionPane.showMessageDialog(null, "You Won!");
                 callClass.start = 0;
-                time.stop();
             }
             jLabel2.setText(Integer.toString(callClass.movesCount));
         }
@@ -364,9 +364,9 @@ public class SlidingPuzzle extends javax.swing.JFrame {
             callClass.CheckButton(jButton2.getText(), jButton6.getText());
                 jButton2.setText(callClass.number[0]); jButton6.setText(callClass.number[1]);
             if (callClass.CheckWin(jButton1.getText(), jButton2.getText(), jButton3.getText(), jButton4.getText(), jButton5.getText(), jButton6.getText(), jButton7.getText(), jButton8.getText(), jButton9.getText(), jButton10.getText(), jButton11.getText(), jButton12.getText(), jButton13.getText(), jButton14.getText(), jButton15.getText(), jButton16.getText()) == 1) {
+                time.stop();
                 JOptionPane.showMessageDialog(null, "You Won!");
                 callClass.start = 0;
-                time.stop();
             }
             jLabel2.setText(Integer.toString(callClass.movesCount));
         }
@@ -382,9 +382,9 @@ public class SlidingPuzzle extends javax.swing.JFrame {
             callClass.CheckButton(jButton3.getText(), jButton7.getText());
                 jButton3.setText(callClass.number[0]); jButton7.setText(callClass.number[1]);
             if (callClass.CheckWin(jButton1.getText(), jButton2.getText(), jButton3.getText(), jButton4.getText(), jButton5.getText(), jButton6.getText(), jButton7.getText(), jButton8.getText(), jButton9.getText(), jButton10.getText(), jButton11.getText(), jButton12.getText(), jButton13.getText(), jButton14.getText(), jButton15.getText(), jButton16.getText()) == 1) {
+                time.stop();
                 JOptionPane.showMessageDialog(null, "You Won!");
                 callClass.start = 0;
-                time.stop();
             }
             jLabel2.setText(Integer.toString(callClass.movesCount));
         }
@@ -398,9 +398,9 @@ public class SlidingPuzzle extends javax.swing.JFrame {
             callClass.CheckButton(jButton4.getText(), jButton8.getText());
                 jButton4.setText(callClass.number[0]); jButton8.setText(callClass.number[1]);
             if (callClass.CheckWin(jButton1.getText(), jButton2.getText(), jButton3.getText(), jButton4.getText(), jButton5.getText(), jButton6.getText(), jButton7.getText(), jButton8.getText(), jButton9.getText(), jButton10.getText(), jButton11.getText(), jButton12.getText(), jButton13.getText(), jButton14.getText(), jButton15.getText(), jButton16.getText()) == 1) {
+                time.stop();
                 JOptionPane.showMessageDialog(null, "You Won!");
                 callClass.start = 0;
-                time.stop();
             }
             jLabel2.setText(Integer.toString(callClass.movesCount));
         }
@@ -416,9 +416,9 @@ public class SlidingPuzzle extends javax.swing.JFrame {
             callClass.CheckButton(jButton5.getText(), jButton9.getText());
             jButton5.setText(callClass.number[0]); jButton9.setText(callClass.number[1]);
             if (callClass.CheckWin(jButton1.getText(), jButton2.getText(), jButton3.getText(), jButton4.getText(), jButton5.getText(), jButton6.getText(), jButton7.getText(), jButton8.getText(), jButton9.getText(), jButton10.getText(), jButton11.getText(), jButton12.getText(), jButton13.getText(), jButton14.getText(), jButton15.getText(), jButton16.getText()) == 1) {
+                time.stop();
                 JOptionPane.showMessageDialog(null, "You Won!");
                 callClass.start = 0;
-                time.stop();
             }
             jLabel2.setText(Integer.toString(callClass.movesCount));
         }
@@ -436,9 +436,9 @@ public class SlidingPuzzle extends javax.swing.JFrame {
             callClass.CheckButton(jButton6.getText(), jButton10.getText());
                 jButton6.setText(callClass.number[0]); jButton10.setText(callClass.number[1]);
             if (callClass.CheckWin(jButton1.getText(), jButton2.getText(), jButton3.getText(), jButton4.getText(), jButton5.getText(), jButton6.getText(), jButton7.getText(), jButton8.getText(), jButton9.getText(), jButton10.getText(), jButton11.getText(), jButton12.getText(), jButton13.getText(), jButton14.getText(), jButton15.getText(), jButton16.getText()) == 1) {
+                time.stop();
                 JOptionPane.showMessageDialog(null, "You Won!");
                 callClass.start = 0;
-                time.stop();
             }
             jLabel2.setText(Integer.toString(callClass.movesCount));
         }
@@ -456,9 +456,9 @@ public class SlidingPuzzle extends javax.swing.JFrame {
             callClass.CheckButton(jButton7.getText(), jButton11.getText());
                 jButton7.setText(callClass.number[0]); jButton11.setText(callClass.number[1]);
             if (callClass.CheckWin(jButton1.getText(), jButton2.getText(), jButton3.getText(), jButton4.getText(), jButton5.getText(), jButton6.getText(), jButton7.getText(), jButton8.getText(), jButton9.getText(), jButton10.getText(), jButton11.getText(), jButton12.getText(), jButton13.getText(), jButton14.getText(), jButton15.getText(), jButton16.getText()) == 1) {
+                time.stop();
                 JOptionPane.showMessageDialog(null, "You Won!");
                 callClass.start = 0;
-                time.stop();
             }
             jLabel2.setText(Integer.toString(callClass.movesCount));
         }
@@ -474,9 +474,9 @@ public class SlidingPuzzle extends javax.swing.JFrame {
             callClass.CheckButton(jButton8.getText(), jButton12.getText());
                 jButton8.setText(callClass.number[0]); jButton12.setText(callClass.number[1]);
             if (callClass.CheckWin(jButton1.getText(), jButton2.getText(), jButton3.getText(), jButton4.getText(), jButton5.getText(), jButton6.getText(), jButton7.getText(), jButton8.getText(), jButton9.getText(), jButton10.getText(), jButton11.getText(), jButton12.getText(), jButton13.getText(), jButton14.getText(), jButton15.getText(), jButton16.getText()) == 1) {
+                time.stop();
                 JOptionPane.showMessageDialog(null, "You Won!");
                 callClass.start = 0;
-                time.stop();
             }
             jLabel2.setText(Integer.toString(callClass.movesCount));
         }
@@ -492,9 +492,9 @@ public class SlidingPuzzle extends javax.swing.JFrame {
             callClass.CheckButton(jButton9.getText(), jButton13.getText());
                 jButton9.setText(callClass.number[0]); jButton13.setText(callClass.number[1]);
             if (callClass.CheckWin(jButton1.getText(), jButton2.getText(), jButton3.getText(), jButton4.getText(), jButton5.getText(), jButton6.getText(), jButton7.getText(), jButton8.getText(), jButton9.getText(), jButton10.getText(), jButton11.getText(), jButton12.getText(), jButton13.getText(), jButton14.getText(), jButton15.getText(), jButton16.getText()) == 1) {
+                time.stop();
                 JOptionPane.showMessageDialog(null, "You Won!");
                 callClass.start = 0;
-                time.stop();
             }
             jLabel2.setText(Integer.toString(callClass.movesCount));
         }
@@ -512,9 +512,9 @@ public class SlidingPuzzle extends javax.swing.JFrame {
             callClass.CheckButton(jButton10.getText(), jButton14.getText());
                 jButton10.setText(callClass.number[0]); jButton14.setText(callClass.number[1]);
             if (callClass.CheckWin(jButton1.getText(), jButton2.getText(), jButton3.getText(), jButton4.getText(), jButton5.getText(), jButton6.getText(), jButton7.getText(), jButton8.getText(), jButton9.getText(), jButton10.getText(), jButton11.getText(), jButton12.getText(), jButton13.getText(), jButton14.getText(), jButton15.getText(), jButton16.getText()) == 1) {
+                time.stop();
                 JOptionPane.showMessageDialog(null, "You Won!");
                 callClass.start = 0;
-                time.stop();
             }
             jLabel2.setText(Integer.toString(callClass.movesCount));
         }
@@ -532,9 +532,9 @@ public class SlidingPuzzle extends javax.swing.JFrame {
             callClass.CheckButton(jButton11.getText(), jButton15.getText());
                 jButton11.setText(callClass.number[0]); jButton15.setText(callClass.number[1]);
             if (callClass.CheckWin(jButton1.getText(), jButton2.getText(), jButton3.getText(), jButton4.getText(), jButton5.getText(), jButton6.getText(), jButton7.getText(), jButton8.getText(), jButton9.getText(), jButton10.getText(), jButton11.getText(), jButton12.getText(), jButton13.getText(), jButton14.getText(), jButton15.getText(), jButton16.getText()) == 1) {
+                time.stop();
                 JOptionPane.showMessageDialog(null, "You Won!");
                 callClass.start = 0;
-                time.stop();
             }
             jLabel2.setText(Integer.toString(callClass.movesCount));
         }
@@ -550,9 +550,9 @@ public class SlidingPuzzle extends javax.swing.JFrame {
             callClass.CheckButton(jButton12.getText(), jButton16.getText());
                 jButton12.setText(callClass.number[0]); jButton16.setText(callClass.number[1]);
             if (callClass.CheckWin(jButton1.getText(), jButton2.getText(), jButton3.getText(), jButton4.getText(), jButton5.getText(), jButton6.getText(), jButton7.getText(), jButton8.getText(), jButton9.getText(), jButton10.getText(), jButton11.getText(), jButton12.getText(), jButton13.getText(), jButton14.getText(), jButton15.getText(), jButton16.getText()) == 1) {
+                time.stop();
                 JOptionPane.showMessageDialog(null, "You Won!");
                 callClass.start = 0;
-                time.stop();
             }
             jLabel2.setText(Integer.toString(callClass.movesCount));
         }
@@ -566,9 +566,9 @@ public class SlidingPuzzle extends javax.swing.JFrame {
             callClass.CheckButton(jButton13.getText(), jButton14.getText());
                 jButton13.setText(callClass.number[0]); jButton14.setText(callClass.number[1]);
             if (callClass.CheckWin(jButton1.getText(), jButton2.getText(), jButton3.getText(), jButton4.getText(), jButton5.getText(), jButton6.getText(), jButton7.getText(), jButton8.getText(), jButton9.getText(), jButton10.getText(), jButton11.getText(), jButton12.getText(), jButton13.getText(), jButton14.getText(), jButton15.getText(), jButton16.getText()) == 1) {
+                time.stop();
                 JOptionPane.showMessageDialog(null, "You Won!");
                 callClass.start = 0;
-                time.stop();
             }
             jLabel2.setText(Integer.toString(callClass.movesCount));
         }
@@ -584,9 +584,9 @@ public class SlidingPuzzle extends javax.swing.JFrame {
             callClass.CheckButton(jButton14.getText(), jButton15.getText());
                 jButton14.setText(callClass.number[0]); jButton15.setText(callClass.number[1]);
             if (callClass.CheckWin(jButton1.getText(), jButton2.getText(), jButton3.getText(), jButton4.getText(), jButton5.getText(), jButton6.getText(), jButton7.getText(), jButton8.getText(), jButton9.getText(), jButton10.getText(), jButton11.getText(), jButton12.getText(), jButton13.getText(), jButton14.getText(), jButton15.getText(), jButton16.getText()) == 1) {
+                time.stop();
                 JOptionPane.showMessageDialog(null, "You Won!");
                 callClass.start = 0;
-                time.stop();
             }
             jLabel2.setText(Integer.toString(callClass.movesCount));
         }
@@ -602,9 +602,9 @@ public class SlidingPuzzle extends javax.swing.JFrame {
             callClass.CheckButton(jButton15.getText(), jButton16.getText());
                 jButton15.setText(callClass.number[0]); jButton16.setText(callClass.number[1]);
             if (callClass.CheckWin(jButton1.getText(), jButton2.getText(), jButton3.getText(), jButton4.getText(), jButton5.getText(), jButton6.getText(), jButton7.getText(), jButton8.getText(), jButton9.getText(), jButton10.getText(), jButton11.getText(), jButton12.getText(), jButton13.getText(), jButton14.getText(), jButton15.getText(), jButton16.getText()) == 1) {
+                time.stop();
                 JOptionPane.showMessageDialog(null, "You Won!");
                 callClass.start = 0;
-                time.stop();
             }
             jLabel2.setText(Integer.toString(callClass.movesCount));
         }
@@ -618,9 +618,9 @@ public class SlidingPuzzle extends javax.swing.JFrame {
             callClass.CheckButton(jButton16.getText(), jButton15.getText());
                 jButton16.setText(callClass.number[0]); jButton15.setText(callClass.number[1]);
             if (callClass.CheckWin(jButton1.getText(), jButton2.getText(), jButton3.getText(), jButton4.getText(), jButton5.getText(), jButton6.getText(), jButton7.getText(), jButton8.getText(), jButton9.getText(), jButton10.getText(), jButton11.getText(), jButton12.getText(), jButton13.getText(), jButton14.getText(), jButton15.getText(), jButton16.getText()) == 1) {
+                time.stop();
                 JOptionPane.showMessageDialog(null, "You Won!");
                 callClass.start = 0;
-                time.stop();
             }
             jLabel2.setText(Integer.toString(callClass.movesCount));
         }
